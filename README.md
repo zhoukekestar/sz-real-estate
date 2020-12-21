@@ -8,3 +8,6 @@
 
 * [楼盘销售明细](http://sz.tmsf.com/newhouse/property_33_431137829_price.htm?isopen=1&presellid=&buildingid=&area=&allprice=&housestate=1&housetype=&page=1)
   * `src/loupan-sell-detail.js`
+
+* 搜房网二手房：http://www.szsoufun.cn/hirehouses/?plateId=6&District=%E6%81%92%E5%A4%A7&page=1
+  * src/sf_2shou.js
